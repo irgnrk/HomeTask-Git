@@ -1,2 +1,4 @@
 //myView
-color  - .red
+// configure
+bgColor  .red
+brFont .white
