@@ -3,4 +3,4 @@
 // configure
 color  - white
 
-//aditional comments
+//
