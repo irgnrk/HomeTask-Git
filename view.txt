@@ -3,4 +3,4 @@
 // configure
 color  - .red
 
-//aditional comments
+//
