@@ -1,6 +1,9 @@
 // view
 
 // configure
-color  - .red
+color  - .red   // comments
+bgColor  .red
+brFont .White
+// comments
 
-//
+// additional comments
