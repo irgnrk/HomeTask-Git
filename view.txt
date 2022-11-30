@@ -1,6 +1,2 @@
-// view
-
-// configure
+//myView
 color  - .red
-
-//
