@@ -1,9 +1,4 @@
-// view
-
+//myView
 // configure
-color  - .red   // comments
 bgColor  .red
-brFont .White
-// comments
-
-// additional comments
+brFont .white
