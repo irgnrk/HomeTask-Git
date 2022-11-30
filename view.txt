@@ -1,6 +1,6 @@
 // view
 
 // configure
-color  - white
+color  - .red
 
 //aditional comments
